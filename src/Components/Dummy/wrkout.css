@@ -1,0 +1,24 @@
+.simple-container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .simple-container h1 {
+    color: #333;
+  }
+  
+  .simple-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .simple-container button:hover {
+    background-color: #0056b3;
+  }
+  
